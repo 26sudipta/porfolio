@@ -67,7 +67,7 @@ a {
 
 img {
   max-width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
 }
 
@@ -236,7 +236,7 @@ img {
 }
 
 .home__blob-img {
-  width: 481px;
+  width: 370px;
 }
 
 /*BUTTONS*/
